@@ -1,0 +1,2 @@
+Salchicha de res
+esta es la forma en que funciona la escritura de archivos
